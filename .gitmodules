@@ -1,3 +1,6 @@
 [submodule "jhu-553-362-course-notes"]
 	path = jhu-553-362-course-notes
 	url = https://github.com/ChesterHuynh/jhu-553-362-course-notes.git
+[submodule "jhu-553-792-course-notes"]
+	path = jhu-553-792-course-notes
+	url = https://github.com/ChesterHuynh/jhu-553-792-course-notes.git
